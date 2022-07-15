@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm STEVEN DE LEON</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+<h3 align="center">A passionate frontend Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://deleonsteven.netlify.app/](https://deleonsteven.netlify.app/)
 
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deleonsteven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deleonsteven" height="30" width="40" /></a>
+<a href="https://instagram.com/s97_leon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s97_leon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
