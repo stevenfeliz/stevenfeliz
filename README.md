@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm STEVEN DE LEON</h1>
 <h3 align="center">A passionate frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://deleonsteven.netlify.app/](https://deleonsteven.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://deleonsteven.netlify.app/](https://www.stevenfeliz.com)
 
 - 💬 Ask me about **HTML,CSS3,BOOSTRAP,REACTJS,JAVASCRIPT,PYTHON,SELENIUM,SCRAPY,REQUEST,OPENBULLET**
 
