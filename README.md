@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **STEVEN.DELEONFELIZ@GMAIL.COM**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/deleonsteven/](https://www.linkedin.com/in/deleonsteven/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/stevenfeliz](https://www.linkedin.com/in/stevenfeliz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
