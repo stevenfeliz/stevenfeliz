@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML,CSS3,BOOSTRAP,REACTJS,JAVASCRIPT,PYTHON,SELENIUM,SCRAPY,REQUEST,OPENBULLET**
 
-- 📫 How to reach me **STEVEN.DELEONFELIZ@GMAIL.COM**
+- 📫 How to reach me **contact@stevenfeliz.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stevenfeliz](https://www.linkedin.com/in/stevenfeliz)
 
